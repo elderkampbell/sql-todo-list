@@ -1,0 +1,1 @@
+SELECT * FROM products ORDER BY ID DESC LIMIT 5;
